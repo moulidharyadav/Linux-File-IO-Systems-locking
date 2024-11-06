@@ -87,6 +87,5 @@ return 0;
 
 # ii) FILELOCKING:
 ![alt text](lock.c.png)
-
 # RESULT:
 The programs are executed successfully.
